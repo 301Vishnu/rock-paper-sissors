@@ -1,1 +1,1 @@
-# rock-paper-sissors
+# rock-paper-scissor-boilerplate
